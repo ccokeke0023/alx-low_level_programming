@@ -28,3 +28,4 @@ char *_strdup(char *str)
 	p[len] = '\0';
 
 	return (p);
+}
